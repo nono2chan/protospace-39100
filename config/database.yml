@@ -51,4 +51,4 @@ production:
   <<: *default
   database: protospace_39100
   username: protospace_39100
-  password: <%= ENV['PROTOSPACE_テックマスターのUSER_ID_DATABASE_PASSWORD'] %>
+  password: <%= ENV['PROTOSPACE_39100_DATABASE_PASSWORD'] %>
